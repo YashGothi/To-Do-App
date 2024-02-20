@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "cuapp17feb24",
+    "staging": "cuapp17feb24"
+  },
+  "targets": {},
+  "etags": {}
+}
