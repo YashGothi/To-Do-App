@@ -42,11 +42,5 @@ npm start
 Contact
 Your Name - yashgothi14@gmail.com
 
-Project Deployment Link: https://cuapp17feb24.web.app
-
-Project Link: https://github.com/YashGothi/To-Do-App
-
-Contributing
-Contributions to this project are welcome. Please feel free to fork the repository, make changes, and submit pull requests.
 
 
